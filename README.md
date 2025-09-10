@@ -24,3 +24,9 @@ It provides insights into **sales, profit, and customer behavior** across region
 ## 🌐 Live Demo / Portfolio
 [View on Portfolio](https://satyam-babu-yallamati.github.io/Satyam-portfolio)
 
+## 📬 Connect with Me
+**Satyam Babu Yallamati**  
+📧 Email: satyambabuyallamati2004@gmail.com  
+📱 LinkedIn: [linkedin.com/in/satyam-babu-yallamati](https://www.linkedin.com/in/satyam-babu-yallamati)
+
+
